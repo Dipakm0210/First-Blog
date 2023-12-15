@@ -33,7 +33,7 @@
     <br />
     <center>
       <img
-        src="[[/Web Dev/html/Day3/Assets/Images/geeta-saar-728x409.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhumarisanskriti.com%2Fgeeta-saar%2F&psig=AOvVaw0dswMc6OeYalwihbcwBHgy&ust=1702699533736000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjx6J7IkIMDFQAAAAAdAAAAABAI)](https://imgs.search.brave.com/BKEQdaNIJfJzp4kyl4KACfRwZzOHEZ7e7WshyWFZKcU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cGF0cmlrYS5jb20v/X25leHQvaW1hZ2Uv/P3VybD1odHRwczov/L25ldy1pbWcucGF0/cmlrYS5jb20vY2Ru/LWNnaS9pbWFnZS93/aWR0aD00MDAsZml0/PWNvdmVyLGdyYXZp/dHk9YXV0byxmb3Jt/YXQ9d2VicCxxdWFs/aXR5PTEwMC9odHRw/czovL25ldy1pbWcu/cGF0cmlrYS5jb20v/dXBsb2FkLzIwMTkv/MDYvMjEvMV8xNi5q/cGcmdz04MjgmcT03/NQ)"
+        src="C:\Users\Admin\Pictures\IMG_20230913_083317 (2).jpg"
         alt="geeta-saar"
       />
       <br />
