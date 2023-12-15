@@ -33,7 +33,7 @@
     <br />
     <center>
       <img
-        src="/Web Dev/html/Day3/Assets/Images/geeta-saar-728x409.jpg"
+        src="[/Web Dev/html/Day3/Assets/Images/geeta-saar-728x409.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhumarisanskriti.com%2Fgeeta-saar%2F&psig=AOvVaw0dswMc6OeYalwihbcwBHgy&ust=1702699533736000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjx6J7IkIMDFQAAAAAdAAAAABAI)"
         alt="geeta-saar"
       />
       <br />
