@@ -33,7 +33,7 @@
     <br />
     <center>
       <img
-        src="C:\Users\Admin\Pictures\IMG_20230913_083317 (2).jpg"
+        src="//C:/Users/Admin/Pictures/IMG_20230913_083317 (2).jpg"
         alt="geeta-saar"
       />
       <br />
